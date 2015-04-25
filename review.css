@@ -2,6 +2,10 @@ body {
   font-family: Helvetica;
 }
 
+#header {
+  margin-left: 10%;
+}
+
 h1 {
   color: #1B1851;
   font-size: 30px;
