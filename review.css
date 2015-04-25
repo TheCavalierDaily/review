@@ -35,12 +35,22 @@ h2 {
   float: left;
   width: 30%;
   height: 30%;
-  background-color: #fff;
 }
 
 .textblockR {
   float: right;
   margin-left: 40%;
+}
+
+.imageblockR {
+  float: right;
+  width: 30%;
+  height: 30%;
+}
+
+.textblockL {
+  float: left;
+  margin-right: 40%;
 }
 
 
