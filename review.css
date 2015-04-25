@@ -33,12 +33,12 @@ h2 {
 
 .imageblockL {
   float: left;
-  width: 400px;
+  width: 30%;
 }
 
 .textblockR {
   float: right;
-  margin-left: 500px;
+  margin-left: 40%;
 }
 
 
