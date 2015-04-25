@@ -40,6 +40,7 @@ h2 {
 .textblockR {
   float: right;
   margin-left: 40%;
+  margin-top: -100px;
 }
 
 .story2 {
@@ -57,6 +58,7 @@ h2 {
 .textblockL {
   float: left;
   margin-right: 40%;
+  margin-top: -100px;
 }
 
 
