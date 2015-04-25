@@ -3,7 +3,7 @@ body {
 }
 
 #header {
-  margin-left: 10%;
+  /*margin-left: 10%;*/
 }
 
 h1 {
@@ -18,8 +18,8 @@ h2 {
 }
 
 #container {
-  margin-left: 10%;
-  width: 80%;
+  /*margin-left: 10%;*/
+  width: 100%;
   display: inline-block;
   font-size: 15px;
   /*background-color: #e8e8e8;*/
