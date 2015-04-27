@@ -21,7 +21,6 @@ h2 {
   /*margin-left: 10%;*/
   width: 100%;
   display: inline-block;
-  font-size: 12px;
   /*background-color: #e8e8e8;*/
 }
 
@@ -42,7 +41,7 @@ h2 {
   float: right;
   margin-left: 40%;
   margin-top: -180px;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .story2 {
@@ -62,7 +61,7 @@ h2 {
   float: left;
   margin-right: 40%;
   margin-top: -180px;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 
