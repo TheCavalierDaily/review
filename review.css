@@ -27,7 +27,7 @@ h2 {
 .story1 {
   width: 100%;
   /*margin-left: 10%;*/
-  height: 470px;
+  height: 500px;
 }
 
 .imageblockL {
@@ -40,14 +40,14 @@ h2 {
 .textblockR {
   float: right;
   margin-left: 40%;
-  margin-top: -210px;
+  margin-top: -180px;
   font-size: 15px;
 }
 
 .story2 {
   width: 100%;
   /*margin-left: 10%;*/
-  height: 470px;
+  height: 500px;
 }
 
 .imageblockR {
@@ -60,7 +60,7 @@ h2 {
 .textblockL {
   float: left;
   margin-right: 40%;
-  margin-top: -210px;
+  margin-top: -180px;
   font-size: 15px;
 }
 
